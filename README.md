@@ -4,9 +4,9 @@
 
 This repository contains of:
 
-* Postamn requests for users in store.collection.json 
+* Postamn requests for users in store.collection.json and enviroment in store_users.postman_environment.json
 * Run the petstore.collection.json
-* Newman html-report
+* Newman html-report for petstore collection
 
 ## How to use
 
